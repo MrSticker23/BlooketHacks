@@ -23,7 +23,7 @@
 * You may not under any circumstance republish any code from this file as your own.
 * 
 * ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
-* https://github.com/Gradyruan/Blooket-Cheats/blob/main/LICENSE
+* https://github.com/MrSticker23?tab=repositories
 */
 
 (function() {
